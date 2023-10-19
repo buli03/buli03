@@ -1,9 +1,9 @@
 ## Hi, my name is Kamil. Welcome to my GitHub!
 ![Thumbnail](https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif)
 ### About me: 
-- I am an informatics student 🧑‍💻
+- I am a computer science student 🧑‍💻
 - I am currently learning everything 😆
-- I aspire to become a programmer someday 👨‍💻
+- I aspire to become a programmer / data analyst someday 👨‍💻
 - I am also a gamer! 🎮
 
 ### You can also find me here: 
