@@ -1,5 +1,5 @@
 ## Hi, my name is Kamil. Welcome to my GitHub!
-![Thumbnail](https://media1.tenor.com/m/y-cekPAg1x8AAAAC/kewl-sounds-good-to-me.gif)
+![Thumbnail](https://media1.tenor.com/m/gZ9Oti_eQL0AAAAC/cat-cool-cat.gif)
 ### About me: 
 - I am a computer science student 🧑‍💻
 - I am currently learning everything 😆
