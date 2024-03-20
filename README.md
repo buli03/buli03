@@ -4,7 +4,8 @@
 - I am a computer science student 🧑‍💻
 - I am currently learning everything 😆
 - I aspire to become a programmer / data analyst someday 👨‍💻
-- I am also a gamer! 🎮
+- I am a gamer! 🎮
+- I am also a coffee enthusiast ☕
 
 ### You can also find me here: 
 [![website](./linkedin-light.svg)](https://linkedin.com/in/kamil-bulenda-9a2299253#gh-light-mode-only)
