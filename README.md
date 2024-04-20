@@ -15,8 +15,6 @@
 &nbsp;&nbsp;
 [![website](./facebook-dark.svg)](https://www.facebook.com/kamil.bulenda.77#gh-dark-mode-only)
 [![website](./facebook-light.svg)](https://www.facebook.com/kamil.bulenda.77#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./leetcode-dark.svg)](https://leetcode.com/buli03/)
 
 ### Languages and tools: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
