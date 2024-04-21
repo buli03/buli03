@@ -10,8 +10,8 @@
 [![website](./linkedin-light.svg)](https://linkedin.com/in/kamil-bulenda-9a2299253#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/kamil-bulenda-9a2299253#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/kamilbulenda03#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/kamilbulenda03#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://www.instagram.com/kamil.bulenda/#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://www.instagram.com/kamil.bulenda/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./facebook-dark.svg)](https://www.facebook.com/kamil.bulenda.77#gh-dark-mode-only)
 [![website](./facebook-light.svg)](https://www.facebook.com/kamil.bulenda.77#gh-light-mode-only)
