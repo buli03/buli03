@@ -1,6 +1,3 @@
-
-![zabyPE5](https://github.com/buli03/buli03/assets/116970818/2fda0b75-3779-4ccf-8ed5-c97fd0d6c8d5)
-
 ## Hi, my name is Kamil. Welcome to my GitHub!
 ### About me: 
 - I am a computer science student 🧑‍💻
