@@ -2,7 +2,7 @@
 ### About me: 
 - I am a computer science student 🧑‍💻
 - I am currently learning everything 😆
-- I aspire to become a programmer / data analyst someday 👨‍💻
+- I aspire to become a database administrator / data scientist someday 👨‍💻
 - I am a gamer! 🎮
 - I am also a coffee enthusiast ☕
 
